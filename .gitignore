@@ -1,0 +1,18 @@
+# File chứa thông tin nhạy cảm
+credentials.txt
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Java / Maven
+target/
+*.class
+
+# Log
+*.log
